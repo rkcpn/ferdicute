@@ -1,12 +1,12 @@
 # Ferdicute
 
-Minimalist app for organizing your favorite web apps inspired by Ferdium/Ferdi/Franz.
+Minimalist app for organizing your favorite web apps, inspired by Ferdium/Ferdi/Franz.
 Based on Qt framework with focus on speed and minimal resource requirements
 
 ## Why Ferdicute?
 
-Ferdium is an electron app which is known to take a lot of resources, especally high CPU usage.
-In cotrast, Ferdicute is a native app that can be compiled for any platform and therefor ensures minimal resource usage.
+Ferdium is an electron app which is known to take a lot of resources, especially high CPU usage.
+In contrast, Ferdicute is a native app that can be compiled for any platform and therefore ensures minimal resource usage.
 <details>
 <summary>Issues related to Ferdium & Electron apps and CPU usage</summary>
 https://github.com/ferdium/ferdium-app/issues/131 <br>
